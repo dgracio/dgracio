@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Daniela Gracio
+- 👀 I’m interested in Science.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me danielagracio@gmail.com
